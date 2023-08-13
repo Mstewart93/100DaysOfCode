@@ -5,4 +5,5 @@
 
 
 <h2>Daily Log</h2>
-<h5>Day One: Worked on Zero To Mastery's Complete Python Developer. Also worked on preping for the Tech Academy's Python/Django Live project.</h5>
+<h5>Day One: </h5> 
+<p>Worked on Zero To Mastery's Complete Python Developer. Also worked on preping for the Tech Academy's Python/Django Live project.</p>
