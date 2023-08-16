@@ -2,7 +2,8 @@
  This is my record of my attempt at doing 100 days of coding. Below is a list of projects that I worked on during that time.
 
 <h2>Projects</h2>
-
+<p>Python Live Progect Using Django (Coming Soon) </p>
+<p></p>
 
 
 <h5>Day One August 11th: </h5> 
