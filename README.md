@@ -1,4 +1,4 @@
-# 100DaysOfCode(August 13th 2023 -(predicted) November 19th, 2023)
+# 100DaysOfCode(August 11th 2023 -  )
  This is my record of my attempt at doing 100 days of coding. Below is a list of projects that I worked on during that time.
 
 <h2>Projects</h2>
